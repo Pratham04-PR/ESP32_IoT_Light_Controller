@@ -3,9 +3,6 @@
 | | |
 |---|---|
 | **Author** | Pratham Pathak |
-| **Intern ID** | CITS2620 |
-| **Internship** | CodTech IT Solutions Pvt. Ltd. |
-| **Project Duration** | 13 June – 26 June 2026 |
 
 A standalone ESP32-based local IoT lighting controller with a self-hosted
 embedded HTTP server, AJAX-based browser control, persistent state
